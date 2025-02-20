@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+.question {
+    margin-bottom: 15px;
+}
